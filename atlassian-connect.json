@@ -7,7 +7,6 @@
     "read"
   ],
   "authentication": {
-    "type": "none"
   },
   "modules": {
     "webhooks": [
