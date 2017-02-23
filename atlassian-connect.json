@@ -14,6 +14,14 @@
       {
         "event": "comment_created",
         "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+      },
+      {
+        "event": "comment_removed",
+        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+      },
+      {
+        "event": "comment_updated",
+        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
       }
     ]
   }
