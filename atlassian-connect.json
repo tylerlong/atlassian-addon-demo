@@ -2,11 +2,12 @@
   "name": "Glip",
   "description": "Atlassian Confluence Glip add-on",
   "key": "com.your-company.confluence-glip-addon-1",
-  "baseUrl": "http://devproxy-public.asialab.glip.net/webhook-tyler.liu",
+  "baseUrl": "https://devproxy-public.asialab.glip.net/webhook-tyler.liu",
   "scopes": [
     "read"
   ],
   "authentication": {
+    "type": "none"
   },
   "modules": {
     "webhooks": [
