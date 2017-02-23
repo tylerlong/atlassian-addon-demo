@@ -1,0 +1,20 @@
+{
+  "name": "Glip",
+  "description": "Atlassian Confluence Glip add-on",
+  "key": "com.your-company.confluence-glip-addon-1",
+  "baseUrl": "https://hooks.glip.com/webhook",
+  "scopes": [
+    "read"
+  ],
+  "authentication": {
+    "type": "none"
+  },
+  "modules": {
+    "webhooks": [
+      {
+        "event": "comment_created",
+        "url": "/706259b3-9378-4ab7-bd1d-8f95fbd8bb5d"
+      }
+    ]
+  }
+}
