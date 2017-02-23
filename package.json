@@ -1,0 +1,14 @@
+{
+  "name": "atlassian-addon-demo",
+  "version": "0.1.0",
+  "description": "Atlassian addon demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "git@github.com:tylerlong/atlassian-addon-demo.git",
+  "author": "Tyler Long <tyler4long@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
