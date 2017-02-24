@@ -2,7 +2,7 @@
   "name": "Glip",
   "description": "Atlassian Confluence Glip add-on",
   "key": "com.your-company.confluence-glip-addon-1",
-  "baseUrl": "https://03926bee.ngrok.io",
+  "baseUrl": "http://devproxy-public.asialab.glip.net/webhook-tyler.liu",
   "vendor": {
     "name": "Your Company, Inc.",
     "url": "http://your-company.com"
@@ -17,31 +17,31 @@
     "webhooks": [
       {
         "event": "attachment_created",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "blog_created",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "blog_updated",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "comment_created",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "comment_updated",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "page_created",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       },
       {
         "event": "page_updated",
-        "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
       }
     ]
   }
