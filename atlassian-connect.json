@@ -2,7 +2,7 @@
   "name": "Glip",
   "description": "Atlassian Confluence Glip add-on",
   "key": "com.your-company.confluence-glip-addon-1",
-  "baseUrl": "http://devproxy-public.asialab.glip.net/webhook-tyler.liu",
+  "baseUrl": "https://694b4d75.ngrok.io/webhook",
   "vendor": {
     "name": "Your Company, Inc.",
     "url": "http://your-company.com"
