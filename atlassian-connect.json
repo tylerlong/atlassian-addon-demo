@@ -2,7 +2,7 @@
   "name": "Glip",
   "description": "Atlassian Confluence Glip add-on",
   "key": "com.your-company.confluence-glip-addon-1",
-  "baseUrl": "https://10e9f5ef.ngrok.io",
+  "baseUrl": "https://03926bee.ngrok.io",
   "vendor": {
     "name": "Your Company, Inc.",
     "url": "http://your-company.com"
