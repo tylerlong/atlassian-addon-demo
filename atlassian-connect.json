@@ -3,6 +3,10 @@
   "description": "Atlassian Confluence Glip add-on",
   "key": "com.your-company.confluence-glip-addon-1",
   "baseUrl": "https://10e9f5ef.ngrok.io",
+  "vendor": {
+    "name": "Your Company, Inc.",
+    "url": "http://your-company.com"
+  },
   "scopes": [
     "read"
   ],
