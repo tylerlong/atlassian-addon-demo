@@ -1,0 +1,61 @@
+const s = `attachment_created
+attachment_removed
+attachment_restored
+attachment_trashed
+attachment_updated
+attachment_viewed
+blog_created
+blog_removed
+blog_restored
+blog_trashed
+blog_updated
+blog_viewed
+blueprint_page_created
+comment_created
+comment_removed
+comment_updated
+connect_addon_disabled
+connect_addon_enabled
+content_created
+content_restored
+content_trashed
+content_updated
+content_permissions_updated
+group_created
+group_removed
+label_added
+label_created
+label_deleted
+label_removed
+login
+login_failed
+logout
+page_children_reordered
+page_created
+page_moved
+page_removed
+page_restored
+page_trashed
+page_updated
+page_viewed
+relation_created
+relation_deleted
+search_performed
+space_created
+space_logo_updated
+space_permissions_updated
+space_removed
+space_updated
+theme_enabled
+user_created
+user_deactivated
+user_followed
+user_reactivated
+user_removed`
+
+s.split('\n').forEach((event) => {
+  console.log(`{
+  "event": "${event.trim()}",
+  "url": "/83e7f1ce-d56f-40cd-9859-4a0225e664a9"
+},`)
+})
