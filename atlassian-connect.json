@@ -1,11 +1,11 @@
 {
   "name": "Glip",
-  "description": "Atlassian Confluence Glip add-on",
-  "key": "com.your-company.confluence-glip-addon-1",
-  "baseUrl": "https://694b4d75.ngrok.io/webhook",
+  "description": "Atlassian Confluence RingCentral Glip add-on",
+  "key": "com.ringcentral.confluence-glip-addon-1",
+  "baseUrl": "https://aws21-g43-udp01.asialab.glip.net:32388/webhook",
   "vendor": {
-    "name": "Your Company, Inc.",
-    "url": "http://your-company.com"
+    "name": "RingCentral, Inc.",
+    "url": "https://www.ringcentral.com/"
   },
   "scopes": [
     "read"
@@ -17,31 +17,31 @@
     "webhooks": [
       {
         "event": "attachment_created",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "blog_created",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "blog_updated",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "comment_created",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "comment_updated",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "page_created",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       },
       {
         "event": "page_updated",
-        "url": "/ee6518f9-7925-46ca-b4d0-6ea48796d07d"
+        "url": "/27a8f957-b9ba-409f-99a8-12fbdc5a7c95"
       }
     ]
   }
