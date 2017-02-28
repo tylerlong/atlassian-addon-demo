@@ -2,8 +2,8 @@
   "name": "Glip",
   "description": "Atlassian Confluence RingCentral Glip add-on",
   "key": "com.ringcentral.confluence-glip-addon-5",
-  "baseUrl": "http://ce55db88.ngrok.io/webhook-tyler.liu",
-  "apiVersion": 5,
+  "baseUrl": "https://ce55db88.ngrok.io/webhook-tyler.liu",
+  "apiVersion": 6,
   "vendor": {
     "name": "RingCentral, Inc.",
     "url": "https://www.ringcentral.com/"
